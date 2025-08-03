@@ -29,15 +29,15 @@ This site showcases my journey in ICT, my skills, education, projects, and profe
 ---
 
 ## 💡 Live Demo
-- *GitHub Repository:* [Click Here](https://github.com/YourUsername/portfolio-website)  
-- *Live Site:* [Click Here](https://YourUsername.github.io/portfolio-website)  
+- *GitHub Repository:* [Click Here](https://github.com/Kichy01/portfolio-website)  
+- *Live Site:* [Click Here](https://Kichy01.github.io/portfolio-website)  
 
 ---
 
 ## 📬 Contact Me
 - *Email:* [manuelkichy001@gmail.com](mailto:manuelkichy001@gmail.com)  
 - *Phone:* +254 745 126668  
-- *GitHub:* [github.com/YourUsername](https://github.com/YourUsername)  
+- *GitHub:* [github.com/YourUsername](https://github.com/Kichy01)  
 - *LinkedIn:* [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
 
 ---
